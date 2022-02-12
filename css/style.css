@@ -1,0 +1,620 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.container{
+	width: 1140px;
+	margin: 0px auto;
+}
+header{
+	width: 100%;
+	float: left;
+	background: url(../img/bg-1.jpg) no-repeat;
+}
+.section-one{
+	margin: 30px;
+	
+
+}
+.logo{
+	width: 80%;
+	float: left;
+
+}
+.logo img{
+
+}
+.menu{
+	width: 20%;
+	float: left;
+
+}
+.menu a{
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+
+}
+.banner{
+	width: 100%;
+	float: left;
+}
+.head-text{
+	margin-top: 60px;
+
+
+}
+.head-text h1{
+	color: white;
+	text-align: center;
+
+
+}
+.head-text span{
+	color: #f7600e;
+
+}
+.head-text p{
+	color: white;
+	text-align: center;
+	margin: 20px;
+	font-style: italic;
+
+}
+.banner-btn{
+	width: 100%;
+	float: left;
+	margin: 30px;
+
+}
+.hire-btn{
+	width: 50%;
+	float: left;
+
+}
+.hire-btn a{
+	text-decoration: none;
+    color: white;
+    background-color: #f7600e;
+    padding: 10px;
+    border-radius: 10px 10px;
+    text-align: center;
+    margin-left: 400px;
+
+}
+.hire-btn img{
+	 margin-left: 450px;
+
+}
+.work-btn{
+	width: 50%;
+	float: left;
+
+}
+.work-btn a{
+	text-decoration: none;
+    color: white;
+    background: transparent;
+    padding: 10px;
+    border-radius: 10px 10px;
+    text-align: center;
+    border: 1px solid gray;
+
+
+}
+.banner-icon{
+	text-align: center;
+	background: transparent;
+	margin-top: 20px;
+
+}
+.fa.fa-arrow-circle-o-down{
+	color: white;
+	font-size: 30px;
+	margin-top: 30px;
+
+}
+.section-two{
+	width: 100%;
+	float: left;
+	margin-bottom: 20px;
+}
+.application{
+	margin: 30px;
+}
+.print{
+	width: 25%;
+	float: left;
+	text-align: center;
+
+}
+.web{
+	width: 25%;
+	float: left;
+	text-align: center;
+
+}
+.app{
+	width: 25%;
+	float: left;
+	text-align: center;
+
+}
+.logo-design{
+	width: 25%;
+	float: left;
+	text-align: center;
+
+}
+.info{
+	width: 100%;
+	float: left;
+	background: url(../img/email-bg.jpg) no-repeat;
+	background-size: cover;
+
+}
+.email-info{
+	margin: 30px;
+}
+.email-box{
+	width: 40%;
+	float: left;
+	margin-bottom: 30px;
+	
+}
+.email{
+	width: 85%;
+    margin: 0px auto;
+    height: 35px;
+    border-radius: 10px 10px;
+    padding-left: 10px;
+    margin-left: 130px;
+   
+
+}
+.subscribe-box{
+	width: 50%;
+	float: left;
+	margin: 10px;
+	margin-bottom: 30px;
+
+	
+
+}
+.subscribe-box a{
+	color: white;
+    text-decoration: none;
+    border: 1px solid #f7600e;
+    background-color: #f7600e;
+    border-radius: 10px 10px;
+    padding: 10px 90px;
+    text-align: center;
+    margin-left: 100px;
+}
+.our-work{
+	width: 100%;
+	float: left;
+
+}
+.work-text{
+	margin: 30px;
+
+}
+.work-text h1{
+	text-align: center;
+
+
+}
+.work-text span{
+	color: #f7600e;
+
+}
+.work-text p{
+	text-align: center;
+	margin: 20px;
+	color: #60666e;
+
+}
+.image{
+	width: 100%;
+	float: left;
+
+}
+.img-one{
+	width: 33.33%;
+	float: left;
+
+}
+.img-two{
+	width: 33.33%;
+	float: left;
+
+}
+.img-three{
+	width: 33.33%;
+	float: left;
+
+}
+.img-four{
+	width: 33.33%;
+	float: left;
+
+}
+.img-five{
+	width: 33.33%;
+	float: left;
+
+}
+.img-six{
+	width: 33.33%;
+	float: left;
+	position: relative;
+	overflow: hidden;
+
+}
+.img-six img{
+	width: 100%;
+
+}
+.img-hover-content{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background-color: #ffa5005e;
+	top: 0px;
+	right: -100%;
+
+}
+.img-hover-content h1{
+	color: white;
+    margin-top: 50px;
+    margin-left: 55px;
+    position: absolute;
+
+}
+.img-hover-content p{
+	color: white;
+    margin: 20px;
+    margin-top: 115px;
+    position: absolute;
+
+}
+.img-hover-content a{
+	position: absolute;
+    text-decoration: none;
+    margin-left: 90px;
+    margin-top: 190px;
+    border: 1px solid white;
+    color: orange;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+.img-six:hover .img-hover-content{
+	right: 0px;
+}
+.btn{
+	width: 100%;
+	float: left;
+	margin: 30px;
+	text-align: center;
+
+
+}
+.btn a{
+	text-decoration: none;
+	color: black;
+	border: 1px solid #d8d9db;
+	border-radius: 10px 10px;
+	padding: 10px 10px;
+
+}
+.section-five{
+	width: 100%;
+	float: left;
+	background: url(../img/bg.jpg);
+
+
+}
+.jhon-info{
+	margin: 30px;
+	text-align: center;
+
+}
+.jhon-info img{
+
+
+}
+.jhon-info h1{
+	margin: 20px;
+	color: white;
+	font-style: italic;
+
+}
+.jhon-info h3{
+	margin: 20px;
+	color: white;
+
+}
+.section-six{
+	width: 100%;
+	float: left;
+}
+.team{
+
+}
+.team-text{
+	margin: 30px;
+
+
+}
+.team-text h1{
+	text-align: center;
+
+
+}
+.team-text span{
+	color: #f7600e;
+
+
+}
+.team-text p{
+	margin: 20px;
+	color: #60666e;
+	text-align: center;
+
+
+}
+.team-img{
+	width: 100%;
+	float: left;
+	text-align: center;
+
+}
+.team-one{
+	width: 25%;
+	float: left;
+
+}
+.team-two{
+	width: 25%;
+	float: left;
+	transition: 0.4s ease-in-out;
+	filter: grayscale(100%);
+
+}
+.team-two:hover{
+	transform: scale(1.1);
+	filter: grayscale(0%);
+}
+
+.team-three{
+	width: 25%;
+	float: left;
+
+}
+.team-four{
+	width: 25%;
+	float: left;
+
+}
+.team-one img{
+	margin-top: 30px;
+
+}
+.team-one h1{
+	margin-top: 20px;
+	color: #60666e;
+
+}
+.team-one p{
+	margin-top: 20px;
+	color: #60666e;
+
+}
+.team-two img{
+
+}
+.team-two h1{
+	margin-top: 20px;
+
+
+}
+.team-two p{
+	margin-top: 20px;
+
+}
+.team-three img{
+	margin-top: 30px;
+
+}
+.team-three h1{
+	margin-top: 20px;
+	color: #60666e;
+
+}
+.team-three p{
+	margin-top: 20px;
+	color: #60666e;
+
+}
+.team-four img{
+	margin-top: 30px;
+
+}
+.team-four h1{
+	margin-top: 20px;
+	color: #60666e;
+
+}
+.team-four p{
+	margin-top: 20px;
+	color: #60666e;
+}
+.fb-one{
+	margin: 10px;
+	font-size: 20px;
+	background-color: gray;
+  	border-radius: 50%;
+  	border: 1px solid grey;
+  	padding: 10px;
+  	color: white;
+
+
+}
+.tw-one{
+	margin: 10px;
+	font-size: 20px;
+	background-color: gray;
+  	border-radius: 50%;
+  	border: 1px solid grey;
+  	padding: 10px;
+  	color: white;
+}
+.gp-one{
+	margin: 10px;
+	font-size: 20px;
+	background-color: gray;
+  	border-radius: 50%;
+  	border: 1px solid grey;
+  	padding: 10px;
+  	color: white;
+}
+.fb-two{
+	margin: 10px;
+	font-size: 20px;
+	background-color: blue;
+  	border-radius: 50%;
+  	border: 1px solid grey;
+  	padding: 10px;
+  	color: white;
+
+}
+.tw-two{
+	margin: 10px;
+	font-size: 20px;
+	background-color: skyblue;
+  	border-radius: 50%;
+  	border: 1px solid grey;
+  	padding: 10px;
+  	color: white;
+
+}
+.gp-two{
+	margin: 10px;
+	font-size: 20px;
+	background-color: red;
+  	border-radius: 50%;
+  	border: 1px solid grey;
+  	padding: 10px;
+  	color: white;
+}
+
+}
+
+.team-icon{
+	
+
+}
+.bullet{
+	text-align: center;
+}
+.bullet img{
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+.section-seven{
+	width: 100%;
+	float: left;
+	background: url(../img/content-2.jpg);
+}
+.box{
+	display: flex;
+	justify-content: center;
+
+}
+.box-email{
+	margin: 30px 0;
+	margin-right: 15px;
+	padding: 40px;
+
+}
+.text-box{
+	margin: 30px 0;
+	margin-left: 15px;
+	padding: 40px;
+}
+.msg{
+	width: 45%;
+	padding: 40px;
+	margin: auto;
+}
+.box input{
+	border-radius: 20px;
+	padding: 15px 60px;
+	margin-left: 10px;
+}
+.msg textarea{
+	border-radius: 20px;
+	padding: 50px;
+	width: 100%;
+	padding-left: 15px;
+	
+}
+.btn-icon{
+	width: 100%;
+	float: left;
+}
+.seven-btn{
+	width: 50%;
+	float: left;
+
+}
+.seven-btn a{
+	text-decoration: none;
+    color: white;
+    background-color: #f7600e;
+    padding: 10px;
+    border-radius: 10px 10px;
+    text-align: center;
+    margin-left: 400px;
+
+}
+.btn-icon{
+	margin: 30px;
+}
+.icon-seven{
+	margin: 10px;
+	font-size: 20px;
+	background-color: gray;
+  	border-radius: 50%;
+  	border: 1px solid grey;
+  	padding: 10px;
+  	color: white;
+
+}
+.last{
+	width: 100%;
+	float: left;
+	background-color: gray;
+
+}
+.link{
+	margin: 20px;
+
+}
+.link-1 h3{
+	color: white;
+	width: 70%;
+	float: left;
+
+}
+.link-2 span{
+	color: red;
+
+}
+.link-2 h4{
+	color: white;
+
+}
